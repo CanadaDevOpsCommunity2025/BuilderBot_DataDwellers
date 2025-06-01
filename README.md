@@ -8,4 +8,6 @@ Main Participant Name: **Steffi Michael**
 
 Team Members Names:
 
-Hasib Yosufi, Priya Gauma, Sonam Rani
+- Hasib Yosufi, 
+- Priya Gauma, 
+- Sonam Rani
